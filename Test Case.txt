@@ -1,0 +1,45 @@
+- Open browser enter url:interviewhunt.com
+Website should be compatability open in safari,chrome,firefox,IE,opera.
+check the site correctly opening or not.
+If the site is open, login with social account.
+
+- Login with facebook|google plus|twitter :
+------------------------------------------------------
+1.Enter valid username and password to login.
+2.Username and password is invalid error message will be displayed.
+
+--Register for the site:
+Enter email id (gmail | yahoo | hotmail)
+1.The mail id is valid, go to password field.
+2.The mail id is invalid display error message.
+Enter password
+1.The password is valid, registration will be sucessfull message will be displayed. 
+2.The password is invalid error messagewill be displayed
+
+- Posting a question :
+----------------------------
+A question which must contains a Title,Category and Description.
+1.Title:
+while posting a question give a resonable and meaningfull title to a respective query.
+Title start with upper case.
+2.Category:
+ give a sutable category for the question.
+3.Description:
+write a detailed about the question and post.
+-(for captcha in future)
+
+- Answer a question :
+---------------------------
+Read the posted question
+if you know the solution, click reply and answer the question with your best. 
+-(for captcha in future)
+
+- Upvote an answer :
+---------------------------
+For a posted answers, you might agree(register approval) with any one of the posted answer, you can upvote for the answer.
+insted of posting the same answer.   
+ 
+
+- Mark Best answer :
+----------------------------
+For a posted answers, Any one of the answer should be excellent and perfect , you can mark it as 'Best'.
